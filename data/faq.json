@@ -1,0 +1,42 @@
+[
+    {
+        "keywords": ["password", "reset", "forgot"],
+        "question": "How do I reset my online banking password?",
+        "answer": "You can reset your password by clicking 'Forgot Password' on the login page and following the instructions sent to your email."
+    },
+    {
+        "keywords": ["transaction", "limit", "max"],
+        "question": "What is my daily transaction limit?",
+        "answer": "The default daily transaction limit is $5,000. You can increase this by contacting your branch or through the 'Limits' section in the app."
+    },
+    {
+        "keywords": ["app", "crash", "stopped", "working"],
+        "question": "Why does my mobile app keep crashing?",
+        "answer": "Try clearing the app cache or reinstalling the app. Ensure you are using the latest version from the App Store or Google Play Store."
+    },
+    {
+        "keywords": ["block", "card", "lost", "stolen"],
+        "question": "How do I block my lost or stolen card?",
+        "answer": "You can instantly block your card via the 'Security' tab in the mobile app or by calling our 24/7 hotline at 1-800-BANK-HELP."
+    },
+    {
+        "keywords": ["branch", "hours", "open"],
+        "question": "What are the branch opening hours?",
+        "answer": "Our branches are typically open from 9:00 AM to 5:00 PM, Monday through Friday, and 10:00 AM to 2:00 PM on Saturdays."
+    },
+    {
+        "keywords": ["account", "balance", "check"],
+        "question": "How can I check my account balance?",
+        "answer": "You can check your balance via the mobile app, online banking, or by texting 'BAL' to our secure number."
+    },
+    {
+        "keywords": ["fee", "charge", "monthly"],
+        "question": "What are the monthly maintenance fees?",
+        "answer": "Standard accounts have a $10 monthly fee, which is waived if you maintain a minimum balance of $1,500 or have a direct deposit."
+    },
+    {
+        "keywords": ["transfer", "international", "wire"],
+        "question": "How do I make an international wire transfer?",
+        "answer": "Log in to online banking, select 'Transfers', then 'International Wire', and enter the recipient's SWIFT code and account details."
+    }
+]
